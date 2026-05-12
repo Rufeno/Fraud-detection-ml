@@ -62,21 +62,7 @@ Fraud-detection-ml/
 
 # 📷 Demonstração
 
-Adicione aqui:
-
-* gráficos do modelo;
-* matriz de confusão;
-* análise de dados;
-* prints do notebook;
-* resultados dos testes.
-
-Exemplo:
-
-```md
-![grafico](images/grafico.png)
-```
-
----
+![Dashboard Fraud Detection](images/dashboard-fraud-detection.png)
 
 # ▶️ Como executar
 
